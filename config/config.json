@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "SeaCucumber",
+    "database": "bookstore",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "define": {
+      "timestamps": false,
+      "logging": false,
+      "operatorsAliases": false,
+      "typeValidation": true
+    }
+  },
+  "test": {
+    "username": "postgres",
+    "password": "SeaCucumber",
+    "database": "bookstore",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "SeaCucumber",
+    "database": "bookstore",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
