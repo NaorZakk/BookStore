@@ -1,0 +1,30 @@
+
+{
+  "development": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": "",
+    "define": {
+      "timestamps": false,
+      "logging": false,
+      "operatorsAliases": false,
+      "typeValidation": true
+    }
+  },
+  "test": {
+    "username": "postgres",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": ""
+  },
+  "production": {
+    "username": "postgres",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": ""
+  }
+}
